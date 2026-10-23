@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 680" role="img" aria-labelledby="bagTitle bagDesc">
+  <title id="bagTitle">Executive laptop briefcase in charcoal with copper zipper details</title>
+  <desc id="bagDesc">Studio product illustration of a structured corporate laptop briefcase by Jyoti Bag Manufacturing.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#EEECE6"/>
+      <stop offset=".6" stop-color="#E7E5DE"/>
+      <stop offset="1" stop-color="#D9D7CF"/>
+    </linearGradient>
+    <linearGradient id="body" x1="0" y1="0" x2=".8" y2="1">
+      <stop offset="0" stop-color="#42535B"/>
+      <stop offset=".4" stop-color="#303F47"/>
+      <stop offset="1" stop-color="#1D2B32"/>
+    </linearGradient>
+    <linearGradient id="flap" x1="0" y1="0" x2=".9" y2="1">
+      <stop offset="0" stop-color="#3D4E56"/>
+      <stop offset=".56" stop-color="#2B3A42"/>
+      <stop offset="1" stop-color="#223037"/>
+    </linearGradient>
+    <linearGradient id="pocket" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#374850"/>
+      <stop offset="1" stop-color="#1D2C33"/>
+    </linearGradient>
+    <linearGradient id="copper" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#DEA676"/>
+      <stop offset=".54" stop-color="#C47B43"/>
+      <stop offset="1" stop-color="#8D4C22"/>
+    </linearGradient>
+    <linearGradient id="leather" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#C18B5D"/>
+      <stop offset="1" stop-color="#8F532D"/>
+    </linearGradient>
+    <pattern id="weave" width="6" height="6" patternUnits="userSpaceOnUse">
+      <path d="M0 0H6M0 3H6" stroke="#F5F9FA" stroke-opacity=".045" stroke-width="1"/>
+      <path d="M0 0V6M3 0V6" stroke="#031018" stroke-opacity=".05" stroke-width="1"/>
+    </pattern>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="180%">
+      <feDropShadow dx="0" dy="24" stdDeviation="22" flood-color="#081820" flood-opacity=".24"/>
+    </filter>
+    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#07151C" flood-opacity=".24"/>
+    </filter>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="13"/>
+    </filter>
+  </defs>
+
+  <rect width="800" height="680" fill="url(#bg)"/>
+  <circle cx="631" cy="177" r="248" fill="#C9C3B6" opacity=".55"/>
+  <circle cx="631" cy="177" r="247" fill="none" stroke="#AFA896" stroke-opacity=".4"/>
+  <path d="M64 500 194 220l57 26-131 281Z" fill="#17324D" opacity=".045"/>
+  <path d="M72 95h656" stroke="#17324D" stroke-opacity=".16"/>
+  <circle cx="72" cy="95" r="3.5" fill="#C47B43"/>
+  <circle cx="728" cy="95" r="3.5" fill="#17324D" opacity=".4"/>
+  <text x="72" y="78" fill="#17324D" opacity=".52" font-family="Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="3.2">STUDIO / CORPORATE SERIES 02</text>
+  <text x="728" y="621" fill="#17324D" opacity=".33" font-family="Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="3.2" text-anchor="end">JBM / AHMEDABAD</text>
+  <path d="M72 607h150" stroke="#17324D" stroke-opacity=".18"/>
+  <text x="72" y="631" fill="#17324D" opacity=".57" font-family="Arial, sans-serif" font-size="11" letter-spacing="1.4">MADE FOR THE BOARDROOM</text>
+  <text x="726" y="130" fill="#17324D" opacity=".1" font-family="Arial, sans-serif" font-size="66" font-weight="700" text-anchor="end">02</text>
+  <g fill="#17324D" opacity=".15">
+    <circle cx="663" cy="474" r="2.2"/><circle cx="682" cy="474" r="2.2"/><circle cx="701" cy="474" r="2.2"/>
+    <circle cx="663" cy="493" r="2.2"/><circle cx="682" cy="493" r="2.2"/><circle cx="701" cy="493" r="2.2"/>
+    <circle cx="663" cy="512" r="2.2"/><circle cx="682" cy="512" r="2.2"/><circle cx="701" cy="512" r="2.2"/>
+  </g>
+
+  <ellipse cx="400" cy="604" rx="236" ry="25" fill="#0D1B22" opacity=".23" filter="url(#blur)"/>
+  <ellipse cx="400" cy="598" rx="190" ry="15" fill="#0D1B22" opacity=".16"/>
+
+  <g filter="url(#shadow)">
+    <path d="M182 407c-51 24-65 77-46 129 13 36 40 54 84 55" fill="none" stroke="#273A34" stroke-width="18" stroke-linecap="round"/>
+    <path d="M618 407c51 24 65 77 46 129-13 36-40 54-84 55" fill="none" stroke="#27343A" stroke-width="18" stroke-linecap="round"/>
+
+    <path d="M348 302c2-49 20-71 52-71s50 22 52 71" fill="none" stroke="#1B282F" stroke-width="25" stroke-linecap="round"/>
+    <path d="M355 296c2-40 17-56 45-56 27 0 42 16 45 56" fill="none" stroke="#53666D" stroke-width="7" stroke-linecap="round"/>
+    <path d="M351 303c2-47 20-65 49-65s47 18 49 65" fill="none" stroke="#C47B43" stroke-opacity=".45" stroke-width="1.5" stroke-dasharray="3 4"/>
+
+    <path d="M198 341c0-30 20-49 52-54l150-15 150 15c32 5 52 24 52 54v199c0 36-23 56-61 58H259c-38-2-61-22-61-58Z" fill="url(#body)" stroke="#18262C" stroke-width="2"/>
+    <path d="M198 353c0-30 20-49 52-54l150-15 150 15c32 5 52 24 52 54v30H198Z" fill="#26363D"/>
+    <path d="M210 382h380" stroke="#121F24" stroke-width="2"/>
+    <path d="M211 368h378" fill="none" stroke="#C47B43" stroke-width="3.5" stroke-linecap="round"/>
+    <path d="M212 360h376" fill="none" stroke="#D8B493" stroke-opacity=".42" stroke-width="1" stroke-dasharray="4 5"/>
+    <path d="M214 366h372" fill="none" stroke="#071116" stroke-opacity=".55" stroke-width="1.2" stroke-dasharray="2 3"/>
+
+    <path d="M219 379h362v147c0 30-20 48-52 50H271c-32-2-52-20-52-50Z" fill="url(#flap)"/>
+    <path d="M219 379h362v147c0 30-20 48-52 50H271c-32-2-52-20-52-50Z" fill="url(#weave)"/>
+    <path d="M222 388c94 29 262 29 356 0" fill="none" stroke="#71848B" stroke-opacity=".2" stroke-width="1.4"/>
+    <path d="M221 554l-4 27c-2 21 11 34 34 36h298c23-2 36-15 34-36l-4-27" fill="#1C2C33"/>
+    <path d="M229 561c104 16 238 16 342 0" fill="none" stroke="#C47B43" stroke-opacity=".36" stroke-width="1.2" stroke-dasharray="4 5"/>
+    <path d="M233 585h334" stroke="#0C191E" stroke-opacity=".4" stroke-width="1"/>
+
+    <path d="M260 493c82-13 198-13 280 0l8 55c2 17-9 28-27 30H279c-18-2-29-13-27-30Z" fill="url(#pocket)" stroke="#142329" stroke-width="1.5"/>
+    <path d="M270 494c77-11 183-11 260 0" fill="none" stroke="#C47B43" stroke-width="3" stroke-linecap="round"/>
+    <path d="M273 486c75-10 177-10 254 0" fill="none" stroke="#0A161B" stroke-opacity=".65" stroke-width="6" stroke-dasharray="2 4"/>
+    <path d="M263 535c83-10 184-10 267 0" fill="none" stroke="#9CB0B7" stroke-opacity=".14" stroke-width="1" stroke-dasharray="3 5"/>
+    <rect x="492" y="491" width="31" height="9" rx="4.5" fill="url(#copper)"/>
+    <path d="M519 496l10 17-11 8-9-15Z" fill="#8C512C" opacity=".8"/>
+
+    <g filter="url(#soft)">
+      <rect x="267" y="402" width="77" height="43" rx="4" fill="url(#leather)"/>
+      <rect x="272" y="407" width="67" height="33" rx="2" fill="none" stroke="#F6E3CC" stroke-opacity=".44" stroke-dasharray="2 3"/>
+      <text x="305.5" y="424" fill="#FFF2E1" font-family="Arial, sans-serif" font-size="9" font-weight="800" letter-spacing="2.6" text-anchor="middle">JYOTI</text>
+      <text x="305.5" y="433" fill="#FFE9D4" opacity=".7" font-family="Arial, sans-serif" font-size="3.8" font-weight="700" letter-spacing="1.3" text-anchor="middle">EXECUTIVE LINE</text>
+    </g>
+
+    <path d="M556 402c17 3 25 12 26 27l1 45" fill="none" stroke="#C47B43" stroke-opacity=".6" stroke-width="1.5" stroke-dasharray="3 4"/>
+    <circle cx="573" cy="506" r="4" fill="#C47B43"/>
+    <circle cx="227" cy="506" r="4" fill="#C47B43" opacity=".65"/>
+    <path d="M225 401v-46M575 401v-46" stroke="#1C2A30" stroke-width="10" stroke-linecap="round"/>
+
+    <path d="M348 378c0-11 8-18 19-18h66c11 0 19 7 19 18" fill="none" stroke="#101E24" stroke-opacity=".5" stroke-width="2"/>
+
+    <path d="M225 339c8-18 25-27 52-30l123-12 123 12c27 3 45 12 52 30" fill="none" stroke="#7C8E94" stroke-opacity=".25" stroke-width="1.2"/>
+    <path d="M204 369c-2-19 10-31 29-36l141-26 23-4 22 4 142 26c19 5 31 17 29 36" fill="none" stroke="#0B181D" stroke-opacity=".6" stroke-width="7"/>
+    <path d="M207 363c58-39 129-55 193-55 64 0 135 16 193 55" fill="none" stroke="#C47B43" stroke-opacity=".57" stroke-width="1" stroke-dasharray="4 5"/>
+    <path d="M236 597l-6 17M564 597l6 17" stroke="#0B181D" stroke-width="13" stroke-linecap="round"/>
+    <path d="M278 374c2 73 2 147 2 217M522 374c-2 73-2 147-2 217" fill="none" stroke="#0B181D" stroke-opacity=".18" stroke-width="1" stroke-dasharray="4 5"/>
+  </g>
+
+  <g transform="translate(125 459)">
+    <circle cx="32" cy="32" r="32" fill="#17324D"/>
+    <circle cx="32" cy="32" r="24" fill="none" stroke="#F7F7F4" stroke-opacity=".35" stroke-dasharray="2 3"/>
+    <path d="M27 42V23h7c6 0 9 3 9 8s-3 8-9 8h-3" fill="none" stroke="#C47B43" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M26 52h13" stroke="#F7F7F4" stroke-opacity=".45" stroke-width="2"/>
+  </g>
+</svg>

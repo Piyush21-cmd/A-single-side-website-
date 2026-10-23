@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 680" role="img" aria-labelledby="bagTitle bagDesc">
+  <title id="bagTitle">Campus messenger bag in forest green with copper buckles</title>
+  <desc id="bagDesc">Studio product illustration of a crossbody campus messenger bag by Jyoti Bag Manufacturing.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F0EDE5"/>
+      <stop offset=".58" stop-color="#E8E4DA"/>
+      <stop offset="1" stop-color="#DAD3C5"/>
+    </linearGradient>
+    <linearGradient id="body" x1="0" y1="0" x2=".9" y2="1">
+      <stop offset="0" stop-color="#50695D"/>
+      <stop offset=".45" stop-color="#3D5449"/>
+      <stop offset="1" stop-color="#263B32"/>
+    </linearGradient>
+    <linearGradient id="flap" x1="0" y1="0" x2=".9" y2="1">
+      <stop offset="0" stop-color="#4B6558"/>
+      <stop offset=".55" stop-color="#3A5045"/>
+      <stop offset="1" stop-color="#2A4036"/>
+    </linearGradient>
+    <linearGradient id="pocket" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#405B4D"/>
+      <stop offset="1" stop-color="#243A30"/>
+    </linearGradient>
+    <linearGradient id="strap" x1="0" y1="0" x2="1" y2=".2">
+      <stop offset="0" stop-color="#1B3028"/>
+      <stop offset=".5" stop-color="#3B5045"/>
+      <stop offset="1" stop-color="#1A2E25"/>
+    </linearGradient>
+    <linearGradient id="copper" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#DFA474"/>
+      <stop offset=".52" stop-color="#C47B43"/>
+      <stop offset="1" stop-color="#8E5027"/>
+    </linearGradient>
+    <linearGradient id="canvas" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#EFE5D4"/>
+      <stop offset="1" stop-color="#D9CBB6"/>
+    </linearGradient>
+    <pattern id="weave" width="6" height="6" patternUnits="userSpaceOnUse">
+      <path d="M0 0H6M0 3H6" stroke="#EEF6F1" stroke-opacity=".05" stroke-width="1"/>
+      <path d="M0 0V6M3 0V6" stroke="#00110A" stroke-opacity=".055" stroke-width="1"/>
+    </pattern>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="180%">
+      <feDropShadow dx="0" dy="24" stdDeviation="21" flood-color="#081912" flood-opacity=".24"/>
+    </filter>
+    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="4" stdDeviation="4" flood-color="#071710" flood-opacity=".24"/>
+    </filter>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="12"/>
+    </filter>
+  </defs>
+
+  <rect width="800" height="680" fill="url(#bg)"/>
+  <circle cx="619" cy="200" r="239" fill="#C2C4B5" opacity=".56"/>
+  <circle cx="619" cy="200" r="238" fill="none" stroke="#9D9E8B" stroke-opacity=".35"/>
+  <path d="M75 95h650" stroke="#17324D" stroke-opacity=".16"/>
+  <circle cx="75" cy="95" r="3.5" fill="#C47B43"/>
+  <circle cx="725" cy="95" r="3.5" fill="#17324D" opacity=".4"/>
+  <text x="75" y="78" fill="#17324D" opacity=".52" font-family="Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="3.2">STUDIO / CAMPUS SERIES 06</text>
+  <text x="725" y="621" fill="#17324D" opacity=".33" font-family="Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="3.2" text-anchor="end">JBM / AHMEDABAD</text>
+  <path d="M75 607h150" stroke="#17324D" stroke-opacity=".18"/>
+  <text x="75" y="631" fill="#17324D" opacity=".57" font-family="Arial, sans-serif" font-size="11" letter-spacing="1.4">MADE FOR BETWEEN CLASSES.</text>
+  <text x="723" y="130" fill="#17324D" opacity=".1" font-family="Arial, sans-serif" font-size="66" font-weight="700" text-anchor="end">06</text>
+  <g fill="#17324D" opacity=".15">
+    <circle cx="670" cy="476" r="2.2"/><circle cx="689" cy="476" r="2.2"/><circle cx="708" cy="476" r="2.2"/>
+    <circle cx="670" cy="495" r="2.2"/><circle cx="689" cy="495" r="2.2"/><circle cx="708" cy="495" r="2.2"/>
+    <circle cx="670" cy="514" r="2.2"/><circle cx="689" cy="514" r="2.2"/><circle cx="708" cy="514" r="2.2"/>
+  </g>
+
+  <ellipse cx="400" cy="603" rx="247" ry="25" fill="#0B1A12" opacity=".23" filter="url(#blur)"/>
+  <ellipse cx="400" cy="598" rx="202" ry="14" fill="#0B1A12" opacity=".16"/>
+
+  <g transform="rotate(-3 400 440)" filter="url(#shadow)">
+    <path d="M160 258c52-72 139-106 202-70 51 29 79 66 118 70 66 7 133-34 171 9 35 40-6 96-55 112" fill="none" stroke="#20352B" stroke-width="29" stroke-linecap="round"/>
+    <path d="M164 253c52-68 132-99 192-65 52 28 80 64 120 68 63 7 128-29 162 11" fill="none" stroke="#557164" stroke-opacity=".24" stroke-width="1.2" stroke-dasharray="4 5"/>
+
+    <path d="M344 344c0-37 17-59 48-65l33-7c17-3 32-4 46-4s29 1 46 4l33 7c31 6 48 28 48 65" fill="none" stroke="#1B2E25" stroke-width="17" stroke-linecap="round"/>
+
+    <path d="M209 388c0-43 27-67 73-71l118-9 118 9c46 4 73 28 73 71v135c0 38-25 59-67 62H276c-42-3-67-24-67-62Z" fill="url(#body)" stroke="#192B23" stroke-width="2"/>
+    <path d="M209 388c0-43 27-67 73-71l118-9 118 9c46 4 73 28 73 71v135c0 38-25 59-67 62H276c-42-3-67-24-67-62Z" fill="url(#weave)"/>
+    <path d="M192 482c-13 26-9 49 16 65 21 14 46 17 76 16l15-104-73-18Z" fill="#263D32" opacity=".45"/>
+    <path d="M608 482c13 26 9 49-16 65-21 14-46 17-76 16l-15-104 73-18Z" fill="#1D3228" opacity=".37"/>
+
+    <path d="M222 376c18-27 46-42 84-44l94-6 94 6c38 2 66 17 84 44l13 191c2 22-11 35-34 38H243c-23-3-36-16-34-38Z" fill="url(#flap)" stroke="#1B2E25" stroke-width="2"/>
+    <path d="M222 376c57-24 118-33 178-33s121 9 178 33" fill="none" stroke="#8CA599" stroke-opacity=".19" stroke-width="1.4"/>
+    <path d="M221 363c56 15 115 22 179 22s123-7 179-22" fill="none" stroke="#C47B43" stroke-width="3.5" stroke-linecap="round"/>
+    <path d="M223 354c55 14 113 20 177 20s122-6 177-20" fill="none" stroke="#05140D" stroke-opacity=".65" stroke-width="7" stroke-dasharray="2 4"/>
+    <path d="M239 409c53 13 105 19 161 19s108-6 161-19" fill="none" stroke="#70897C" stroke-opacity=".17" stroke-width="1" stroke-dasharray="4 5"/>
+    <path d="M242 573c34 10 86 14 158 14s124-4 158-14" fill="none" stroke="#A8BDB0" stroke-opacity=".13" stroke-width="1"/>
+
+    <path d="M276 481c74-14 174-14 248 0l10 79c2 22-10 35-31 37H297c-21-2-33-15-31-37Z" fill="url(#pocket)" stroke="#1A2E24" stroke-width="1.5"/>
+    <path d="M284 481c70-10 162-10 232 0" fill="none" stroke="#C47B43" stroke-width="3.2" stroke-linecap="round"/>
+    <path d="M288 474c66-9 154-9 224 0" fill="none" stroke="#07190F" stroke-opacity=".68" stroke-width="5.5" stroke-dasharray="2 4"/>
+    <path d="M285 545c73-9 157-9 230 0" fill="none" stroke="#D4E1D9" stroke-opacity=".12" stroke-width="1.1" stroke-dasharray="3 5"/>
+    <rect x="497" y="479" width="28" height="8" rx="4" fill="url(#copper)"/>
+    <path d="M521 484l8 14-9 7-8-13Z" fill="#8C4E26" opacity=".76"/>
+
+    <path d="M300 377v-12M500 377v-12" stroke="#12251C" stroke-width="8" stroke-linecap="round"/>
+    <path d="M345 381c-4 54-4 110 1 168M455 381c4 54 4 110-1 168" fill="none" stroke="#10251B" stroke-opacity=".24" stroke-width="1.2" stroke-dasharray="4 5"/>
+
+    <path d="M292 394h54v133h-54z" fill="#253D31" opacity=".3"/>
+    <path d="M292 394h54v133" fill="none" stroke="#172C21" stroke-width="1.5"/>
+    <path d="M346 406h-54v-12" fill="none" stroke="#C47B43" stroke-width="2.5"/>
+    <path d="M362 410c0 10 8 18 18 18h40c10 0 18-8 18-18v-6c0-10-8-18-18-18h-40c-10 0-18 8-18 18Z" fill="url(#copper)" filter="url(#soft)"/>
+    <path d="M370 404h37l-4 12-29 1Z" fill="#6D401F" opacity=".35"/>
+    <path d="M459 419v60c0 6 4 10 10 10h7" fill="none" stroke="#6F4424" stroke-width="4" stroke-linecap="round"/>
+
+    <path d="M282 400h51v77h-51z" fill="#20362B" opacity=".2"/>
+    <path d="M288 494l41 16v52l-41-16Z" fill="#2D483C" opacity=".6"/>
+
+    <g transform="translate(486 514)">
+      <rect width="86" height="47" rx="4" fill="url(#canvas)" stroke="#BFA982"/>
+      <rect x="7" y="7" width="72" height="33" rx="2" fill="none" stroke="#17324D" stroke-opacity=".24" stroke-dasharray="2 3"/>
+      <path d="M25 20v17c0 3 2 5 5 5h15" fill="none" stroke="#17324D" stroke-width="4" stroke-linecap="round"/>
+      <circle cx="48" cy="42" r="2.2" fill="#C47B43"/>
+      <text x="70" y="23" fill="#17324D" font-family="Arial, sans-serif" font-size="7" font-weight="800" letter-spacing="1.3" text-anchor="middle">JYOTI</text>
+      <text x="70" y="31" fill="#6B5941" font-family="Arial, sans-serif" font-size="3.7" font-weight="700" letter-spacing=".8" text-anchor="middle">CAMPUS LINE</text>
+    </g>
+
+    <path d="M229 440c-9 32-8 62 3 88M571 440c9 32 8 62-3 88" fill="none" stroke="#C47B43" stroke-opacity=".4" stroke-width="1.4"/>
+    <circle cx="230" cy="437" r="5.4" fill="url(#copper)"/>
+    <circle cx="570" cy="437" r="5.4" fill="url(#copper)"/>
+    <circle cx="230" cy="437" r="2" fill="#5E3519"/>
+    <circle cx="570" cy="437" r="2" fill="#5E3519"/>
+
+    <path d="M251 585l-9 17M549 585l9 17" stroke="#0B1C13" stroke-width="14" stroke-linecap="round"/>
+  </g>
+
+  <g transform="translate(112 398)">
+    <rect width="96" height="65" fill="#17324D"/>
+    <text x="12" y="19" fill="#F7F7F4" opacity=".7" font-family="Arial, sans-serif" font-size="5.5" font-weight="700" letter-spacing="1.6">CAMPUS / DAILY</text>
+    <text x="12" y="42" fill="#DBA170" font-family="Arial, sans-serif" font-size="17" font-weight="800" letter-spacing="1">15.6&quot;</text>
+    <text x="12" y="54" fill="#F7F7F4" opacity=".7" font-family="Arial, sans-serif" font-size="5.2" font-weight="700" letter-spacing="1.3">PADDED DEVICE SLEEVE</text>
+    <path d="M84 0v65" stroke="#C47B43" stroke-width="3"/>
+  </g>
+</svg>
